@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">BookMyRoom</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="Boyshostel">
+        hhh\n
+        bbb
+    </string>
+    <string name="Facility">
+The A block (Tholkaapiar Illam) has 30 rooms in it, It has a total capacity of 115 students.\n This block has 2 floors (G+1) and its entirely for First year students alone\n
+
+The B block (Valluvar Illam) has 34 rooms in it,has a capacity of 170 students. This block has 2 floors ( G+1) and only the second year students are alloted here.\n
+The C block (Nakkirar Illam) has 58 rooms in it,
+has a total capacity of 232 students. C block has again 2 floors (G+1) and the third year students stay here.\n
+The D block (Elango Illam) has 120 rooms in it. It
+has a total capacity of 240 students. Again a two floored block (G+1) and its for the fourth/final year students.\n
+The E Block:
+The E block, recently constructed has 3 floors (G+2) and has more than 80 rooms
+Its highly advanced block when compared with other 4 blocks, Has access to terrace.\n
+7– 12 wifi routers for high speed and easy internet access.\n
+Fee structure changes for E block when compared with A,B,C and D blocks.\n
+The Anti- ragging committee led by a team of college professors has lots of volunteers who always keep an eye for ragging practices.\n
+High speed, uninterrupted wi-fi connectivity.\n
+Students computer centre which has desktops enabled with internet connection, printing and scanning facilities.\n
+Students can park their personal vehicles inside hostel campus and can use it whenever needed.\n
+Hostel night canteen to provide food, snacks and soft drinks which will be open until 2–3 am especially for students who work at late nights or prepare for exam during nights\n
+Hostel Movie theater with surround speakers\n
+Yearly hostel day celebrations\n
+Monthly feasts\n
+    </string>
+    <string name="Girlshostel">
+The TCE Ladies hostel is located at the foot of Koodal hills in an area of about 8acres in which the built up area covers about 3.33 acres and the remaining area are of green coverage.\n
+The hostel campus is 31 years old and provides lodging and boarding for about 960 lady students of Thiagarajar College of Engineering. \nThe hostel has two blocks at college campus and an annex block at Thirunagar.\n
+The hostel is located in an eco friendly environment surrounded with about 250 trees and lawn.\n
+
+Comfortable Accommodation\n
+Luxurious Food Courts\n
+Mini-theatre with DTS\n
+Hi-speed net access\n
+Yoga and Meditation\n
+Dispensary\n
+Library with wide range\n
+Home Theatre\n
+Well equipped Gym\n
+Indoor game\n
+Mineral Water plant\n
+24 hr water supply\n
+24 hr electricity\n
+Polymer Road\n
+Attractive Canteen\n
+24 hr security\n
+Reading room\n
+Garden\n
+Monthly Feasts\n
+    </string>
+    <string name="girlshosRules">
+        1) TCE hostel does not allow non vegetarian food inside it. We follow pure vegetarianism.\n
+        2) Breakfast will be available from 8.00am - 11.30am , lunch will be avaialble from 12.30pm and dinner will be at 7.00pm\n
+        3) Hot beverages will be available both morning and evening.\n
+        4) All students inside the hostel must mark their attendance to their respective mentors.\n
+        5) I yr students are not permitted to fo for outing.\n
+        6) Students must be available within 6.00pm inside the hostel.\n
+    </string>
+    <string name="boyshosRules">
+        1)TCE hostel does not allow non vegetarian food inside it. We follow pure vegetarianism.\n
+        2) Breakfast will be available froom 7.30am -9.30am, lunch will be avaialble from 12.30pm and dinner will be available from 7.00pm - 9.30pm.\n
+        3) Hot beverages will be available both morning and evening.\n
+        4) Boys hostel follows bio-metric method to check for students attendance.\n
+    </string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="logout">logout</string>
+    <string name="profile">profile</string>
+    <string name="settings">settings</string>
+</resources>
